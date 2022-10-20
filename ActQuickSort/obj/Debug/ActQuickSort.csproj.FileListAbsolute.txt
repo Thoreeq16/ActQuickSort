@@ -1,0 +1,8 @@
+C:\Users\Thoriq Hidayatullah\source\repos\ActQuickSort\ActQuickSort\bin\Debug\ActQuickSort.exe.config
+C:\Users\Thoriq Hidayatullah\source\repos\ActQuickSort\ActQuickSort\bin\Debug\ActQuickSort.exe
+C:\Users\Thoriq Hidayatullah\source\repos\ActQuickSort\ActQuickSort\bin\Debug\ActQuickSort.pdb
+C:\Users\Thoriq Hidayatullah\source\repos\ActQuickSort\ActQuickSort\obj\Debug\ActQuickSort.csproj.AssemblyReference.cache
+C:\Users\Thoriq Hidayatullah\source\repos\ActQuickSort\ActQuickSort\obj\Debug\ActQuickSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thoriq Hidayatullah\source\repos\ActQuickSort\ActQuickSort\obj\Debug\ActQuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Thoriq Hidayatullah\source\repos\ActQuickSort\ActQuickSort\obj\Debug\ActQuickSort.exe
+C:\Users\Thoriq Hidayatullah\source\repos\ActQuickSort\ActQuickSort\obj\Debug\ActQuickSort.pdb
